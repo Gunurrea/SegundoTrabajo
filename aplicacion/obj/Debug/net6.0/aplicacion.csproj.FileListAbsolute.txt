@@ -1,0 +1,15 @@
+C:\Users\Jona\Desktop\Ejercicio1\aplicacion\bin\Debug\net6.0\aplicacion.exe
+C:\Users\Jona\Desktop\Ejercicio1\aplicacion\bin\Debug\net6.0\aplicacion.deps.json
+C:\Users\Jona\Desktop\Ejercicio1\aplicacion\bin\Debug\net6.0\aplicacion.runtimeconfig.json
+C:\Users\Jona\Desktop\Ejercicio1\aplicacion\bin\Debug\net6.0\aplicacion.dll
+C:\Users\Jona\Desktop\Ejercicio1\aplicacion\bin\Debug\net6.0\aplicacion.pdb
+C:\Users\Jona\Desktop\Ejercicio1\aplicacion\obj\Debug\net6.0\aplicacion.csproj.AssemblyReference.cache
+C:\Users\Jona\Desktop\Ejercicio1\aplicacion\obj\Debug\net6.0\aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jona\Desktop\Ejercicio1\aplicacion\obj\Debug\net6.0\aplicacion.AssemblyInfoInputs.cache
+C:\Users\Jona\Desktop\Ejercicio1\aplicacion\obj\Debug\net6.0\aplicacion.AssemblyInfo.cs
+C:\Users\Jona\Desktop\Ejercicio1\aplicacion\obj\Debug\net6.0\aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Jona\Desktop\Ejercicio1\aplicacion\obj\Debug\net6.0\aplicacion.dll
+C:\Users\Jona\Desktop\Ejercicio1\aplicacion\obj\Debug\net6.0\refint\aplicacion.dll
+C:\Users\Jona\Desktop\Ejercicio1\aplicacion\obj\Debug\net6.0\aplicacion.pdb
+C:\Users\Jona\Desktop\Ejercicio1\aplicacion\obj\Debug\net6.0\aplicacion.genruntimeconfig.cache
+C:\Users\Jona\Desktop\Ejercicio1\aplicacion\obj\Debug\net6.0\ref\aplicacion.dll
